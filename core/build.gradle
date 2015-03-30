@@ -1,0 +1,6 @@
+apply plugin: "java"
+
+dependencies {
+    compile "com.badlogicgames.gdx:gdx:$gdxVersion"
+}
+
