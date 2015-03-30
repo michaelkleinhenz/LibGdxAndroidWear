@@ -1,4 +1,4 @@
-# LibGdx Android Waer Example Project
+# LibGdx Android Wear Example Project
 
 This projects is a template example for running LibGdx on Android Wear. You can just build it using:
 
